@@ -6,7 +6,8 @@ export default function App() {
     <View style={styles.container}>
       {/* update */}
       <Text>Hello World!</Text>
-      
+      {/* new update */}
+      <Text>Hi!</Text>
       <StatusBar style="auto" />
     </View>
   );
